@@ -1,0 +1,14 @@
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\bin\Debug\netcoreapp3.1\LinQCsharp.exe
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\bin\Debug\netcoreapp3.1\LinQCsharp.deps.json
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\bin\Debug\netcoreapp3.1\LinQCsharp.runtimeconfig.json
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\bin\Debug\netcoreapp3.1\LinQCsharp.runtimeconfig.dev.json
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\bin\Debug\netcoreapp3.1\LinQCsharp.dll
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\bin\Debug\netcoreapp3.1\LinQCsharp.pdb
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\obj\Debug\netcoreapp3.1\LinQCsharp.csproj.AssemblyReference.cache
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\obj\Debug\netcoreapp3.1\LinQCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\obj\Debug\netcoreapp3.1\LinQCsharp.AssemblyInfoInputs.cache
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\obj\Debug\netcoreapp3.1\LinQCsharp.AssemblyInfo.cs
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\obj\Debug\netcoreapp3.1\LinQCsharp.csproj.CoreCompileInputs.cache
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\obj\Debug\netcoreapp3.1\LinQCsharp.dll
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\obj\Debug\netcoreapp3.1\LinQCsharp.pdb
+C:\Users\emada\source\repos\LinQCsharp\LinQCsharp\obj\Debug\netcoreapp3.1\LinQCsharp.genruntimeconfig.cache
